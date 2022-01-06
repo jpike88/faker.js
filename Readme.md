@@ -1,1 +1,2 @@
-What really happened with Aaron Swartz?
+Community version published here:
+https://www.npmjs.com/package/community-faker
